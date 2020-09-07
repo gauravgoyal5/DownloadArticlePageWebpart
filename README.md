@@ -23,9 +23,9 @@ Short summary on functionality and used technologies.
 
 ## Solution
 
-Solution|Author(s)
+Author(s)
 --------|---------
-folder name | Author details (name, company, twitter alias with link)
+Shiv Shankar Kumar (https://shivsquest.com/)
 
 
 ## Disclaimer
@@ -42,7 +42,6 @@ folder name | Author details (name, company, twitter alias with link)
   - **npm install**
   - **gulp serve**
 
-> Include any additional steps as needed.
 
 ## Features
 
