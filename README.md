@@ -46,5 +46,5 @@ folder name | Author details (name, company, twitter alias with link)
 
 ## Features
 
-This webpart has a button called 'Download'. The webpart is supposed to placed on the News Article page. 
-On click of the button, it extracts article information from 'CanvasContent1', removes unwanted details and exports as pdf.
+This webpart has a button called 'Download'. The webpart is supposed to be placed on the News Article page. 
+On click of the button, it extracts article information from 'CanvasContent1', removes unwanted details using REGEX and exports as pdf.
